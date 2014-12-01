@@ -3,3 +3,5 @@ making some changes
 some more changes
 
 something more
+
+this change would be committed
