@@ -6,10 +6,12 @@ something more
 
 this change would be committed
 
-
 This change was made on feature 2
 
 this change was intended to create a conflict betrwwen this adn the master branch
 
 this change was made on feature 1. ryt? Yes !!
 changes on feature1
+This change was made on master
+
+changes made on master branch
