@@ -8,3 +8,5 @@ this change would be committed
 
 
 This change was made on feature 2
+
+this change was intended to create a conflict betrwwen this adn the master branch
